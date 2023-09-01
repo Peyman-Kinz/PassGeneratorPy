@@ -1,8 +1,7 @@
-#Passwort-Generator
 import random
 
-lower_case = "abcdefghijklmnopqrstuvwxyz" #Kleine Buchstaben
-upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"#Große Buchstaben
+lower_case = "abcdefghijklmnopqrstuvwxyz" 
+upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 num = "0123456789"
 symbol = "[]{}#()*;._-"
 
