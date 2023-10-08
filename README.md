@@ -4,7 +4,7 @@
 *                                                     *
 *******************************************************
 
-Urheberrecht (c) 2023 AK-PK. Alle Rechte vorbehalten.
+2023 AK-PK. Alle Rechte vorbehalten.
 
 Der Passwortgenerator in Python wurde entwickelt, um zufällige und sichere Passwörter zu generieren. 
 
